@@ -1,0 +1,204 @@
+{
+    "discordURL": "https://www.ruination.de/discord",
+    "Cosmetics": [
+        {
+            "name": "Renegade Raider (Option)",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+            "type": "skin",
+            "Options": [
+                {
+                    "name": "Renegade Raider",
+                    "fromname": "Blaze",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_784_athena_commando_f_renegaderaiderfire/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+                                },
+                                {
+                                    "Search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+                                    "Replace": "/"
+                                },
+                                {
+                                    "Search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+                                    "Replace": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+                                },
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+                                    "Replace": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+                                    "Replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Renegade Raider",
+                    "fromname": "Blizzabelle",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+                                },
+                                {
+                                    "Search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+                                    "Replace": "/"
+                                },
+                                {
+                                    "Search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+                                    "Replace": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+                                },
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+                                    "Replace": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+                                    "Replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Black Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+            "type": "backpack",
+            "Options": [
+                {
+                    "name": "Black Shield",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+                    "fromname": "Blackout Bag",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                                    "Replace": "/a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Scenario",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_kpopdance03/icon.png",
+            "type": "emote",
+            "Options": [
+                {
+                    "name": "Scenario",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/eid_kpopdance03/icon.png",
+                    "fromname": "Boogie Down",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/eid_boogiedown/icon.png",
+                    "isPickaxe": false,
+                    "message": "",
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+                                    "Replace": "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
+                                },
+                                {
+                                    "Search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+                                    "Replace": "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Raider's Revenge",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/icon.png",
+            "type": "pickaxe",
+            "Options": [
+                {
+                    "name": "Raider's Revenge",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/icon.png",
+                    "fromname": "Shadow Slicer",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_541_streetfashioneclipsefemale/icon.png",
+                    "isPickaxe": true,
+                    "message": "",
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_StreetFashionEclipseFemale",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Weapons/FORT_Melee/Pickaxe_StreetFashionRed/Meshes/Demo/SK_Pickaxe_StreetFashionRed_DEMO.SK_Pickaxe_StreetFashionRed_DEMO",
+                                    "Replace": "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic"
+                                },
+                                {
+                                    "Search": "/Game/Weapons/FORT_Melee/Pickaxe_Street_Fashion_Eclipse_Female/Materials/MI_Pickaxe_StreetFashionEclipseFemale.MI_Pickaxe_StreetFashionEclipseFemale",
+                                    "Replace": "/Game/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
