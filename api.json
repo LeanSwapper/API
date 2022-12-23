@@ -1,10 +1,10 @@
 {
-    "discordURL": "https://www.ruination.de/discord",
+    "discordURL": "https://frostchanger.de",
     "Cosmetics": [
         {
             "name": "Renegade Raider (Option)",
             "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
-            "type": "skin",
+            "type": "skins",
             "Options": [
                 {
                     "name": "Renegade Raider",
@@ -49,6 +49,45 @@
                             "Swaps": [
                                 {
                                     "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+                                    "Replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Renegade Raider",
+                    "fromname": "GingerBread Raider",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_970_athena_commando_f_renegaderaiderholiday/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderHoliday",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_Body.M_F_Renegade_Raider_Holiday_Body",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+                                }
+
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderHoliday",
+                            "Swaps": [
+
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+                                    "Replace": "/"
+                                }
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderHoliday",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Materials/M_F_Renegade_Raider_Holiday_FaceAcc.M_F_Renegade_Raider_Holiday_FaceAcc",
                                     "Replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
                                 }
                             ]
