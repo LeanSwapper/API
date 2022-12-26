@@ -145,33 +145,55 @@
                 }
             ]
         },
-                        {
-            "name": "Black Shield",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+        {
+            "name": "Pink Ghoultrooper",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/cid_029_athena_commando_f_halloween/variants/material/mat3.png",
             "type": "skins",
             "Options": [
                 {
-                    "name": "Black Shield",
-                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
-                    "fromname": "Blackout Bag",
+                    "name": "Pink Ghoultrooper",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_029_athena_commando_f_halloween/variants/material/mat3.png",
+                    "fromname": "Nitelite",
                     "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
                     "message": "",
                     "isPickaxe": false,
                     "Assets": [
                         {
-                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow",
                             "Swaps": [
                                 {
-                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
-                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body"
+                                }
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
+                                    "Replace": "/Game/Characters/CharacterColorSwatches/Skin/F_LRG_CAU.F_LRG_CAU"
                                 },
                                 {
-                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
-                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair"
                                 },
                                 {
-                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
-                                    "Replace": "/a"
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head"
+                                }
+                            ]
+                        },
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
+                                    "Replace": "/Game/"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
+                                    "Replace": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses"
                                 }
                             ]
                         }
