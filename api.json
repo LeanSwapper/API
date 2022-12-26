@@ -145,6 +145,210 @@
                 }
             ]
         },
+                        {
+            "name": "Black Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+            "type": "skins",
+            "Options": [
+                {
+                    "name": "Black Shield",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+                    "fromname": "Blackout Bag",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                                    "Replace": "/a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+                        {
+            "name": "Black Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+            "type": "skins",
+            "Options": [
+                {
+                    "name": "Black Shield",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+                    "fromname": "Blackout Bag",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                                    "Replace": "/a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+                        {
+            "name": "Black Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+            "type": "skins",
+            "Options": [
+                {
+                    "name": "Black Shield",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+                    "fromname": "Blackout Bag",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                                    "Replace": "/a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+                        {
+            "name": "Black Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+            "type": "skins",
+            "Options": [
+                {
+                    "name": "Black Shield",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+                    "fromname": "Blackout Bag",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                                    "Replace": "/a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+                        {
+            "name": "Black Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+            "type": "skins",
+            "Options": [
+                {
+                    "name": "Black Shield",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+                    "fromname": "Blackout Bag",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                                    "Replace": "/a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+                {
+            "name": "Black Shield",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+            "type": "skins",
+            "Options": [
+                {
+                    "name": "Black Shield",
+                    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
+                    "fromname": "Blackout Bag",
+                    "swapicon": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+                    "message": "",
+                    "isPickaxe": false,
+                    "Assets": [
+                        {
+                            "Asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse",
+                            "Swaps": [
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame_Skeleton_AnimBlueprint.SK_Backpack_Wegame_Skeleton_AnimBlueprint_C"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                                    "Replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"
+                                },
+                                {
+                                    "Search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+                                    "Replace": "/a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         {
             "name": "Black Shield",
             "icon": "https://fortnite-api.com/images/cosmetics/br/bid_004_blackknight/icon.png",
