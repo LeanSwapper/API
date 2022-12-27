@@ -435,6 +435,32 @@
                 }
             ]
         },
+          {
+    "name": "Hypnot-Eyes",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/eid_apprenticeswirl/smallicon.png",
+    "type": "emote",
+    "Options": [
+      {
+        "name": "Hypnot-Eyes",
+        "icon": "https://fortnite-api.com/images/cosmetics/br/eid_apprenticeswirl/smallicon.png",
+        "fromname": "Boogie Down",
+        "swapicon": "https://fortnite-api.com/images/cosmetics/br/eid_boogiedown/smallicon.png",
+        "isPickaxe": "false",
+        "message": "",
+        "Assets": [
+          {
+            "Asset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown",
+            "Swaps": [
+              {
+                "Search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+                "Replace": "/Game/MainPlayer/Emotes/ApprenticeSwirl/ApprenticeSwirl_CMM_M"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
         {
             "name": "Raider's Revenge",
             "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/icon.png",
