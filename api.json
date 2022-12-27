@@ -453,7 +453,11 @@
             "Swaps": [
               {
                 "Search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
-                "Replace": "/Game/MainPlayer/Emotes/ApprenticeSwirl/ApprenticeSwirl_CMM_M"
+                "Replace": "/Game/MainPlayer/Emotes/ApprenticeSwirl/ApprenticeSwirl_CMM_M.ApprenticeSwirl_CMM_M"
+              },
+               {
+                "Search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+                "Replace": "/Game/MainPlayer/Emotes/ApprenticeSwirl/ApprenticeSwirl_CMM_M.ApprenticeSwirl_CMM_M"
               }
             ]
           }
