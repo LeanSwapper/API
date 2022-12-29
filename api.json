@@ -8211,48 +8211,6 @@
       }
     ]
   },
-          {
-    "name": "Super Striker",
-    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_144_athena_commando_m_soccerdudea/smallicon.png",
-    "type": "skins",
-    "Options": [
-      {
-        "name": "Super Striker",
-        "icon": "https://fortnite-api.com/images/cosmetics/br/cid_144_athena_commando_m_soccerdudea/smallicon.png",
-        "fromname": "Blaze",
-        "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_784_athena_commando_f_renegaderaiderfire/icon.png",
-        "isPickaxe": "false",
-        "message": "",
-        "Assets": [
-          {
-            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
-            "Swaps": [
-              {
-                "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-                "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C"
-              },
-              {
-                "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-                "Replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Meshes/M_MED_Soccer.M_MED_Soccer"
-              },
-              {
-                "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
-                "Replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Materials/MI_Male_Soccer_Body_L1.MI_Male_Soccer_Body_L1"
-              },
-              {
-                "Search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
-                "Replace": "/"
-              },
-              {
-                "Search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
-                "Replace": "/"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
   {
     "name": "Midfield Maestro",
     "icon": "https://fortnite-api.com/images/cosmetics/br/cid_145_athena_commando_m_soccerdudeb/smallicon.png",
