@@ -20119,6 +20119,105 @@
       }
     ]
   },
+  {
+    "name": "Default Swap",
+    "fromname": "Default",
+    "icon": "https://cdn.discordapp.com/avatars/772313377909112873/315a9fa7c4dced03e3f710d9df7fb570.png",
+    "swapicon": "https://cdn.discordapp.com/avatars/343695572961853441/a_cf4081f845266a01cc993dfd0f774384.png",
+    "message": "",
+    "isPickaxe": false,
+    "Assets": [
+        {
+            "Asset": "FortniteGame/Content/Balance/DefaultGameDataCosmetics",
+            "Swaps": [
+                {
+                    "Search": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Fallback.CP_Athena_Body_F_Fallback",
+                    "Replace": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_F1llback.CP_Athena_Body_F_F1llback"
+                }
+
+            ]
+        },
+        {
+            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime",
+            "Swaps": [
+
+                {
+                    "Search": "CP_Athena_Body_F_Prime/",
+                    "Replace": "CP_Athena_Body_F_Frost/"
+                }
+            ]
+        },
+        {
+            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_A",
+            "Swaps": [
+                {
+                    "Search": "CP_Athena_Body_F_Prime_A/",
+                    "Replace": "CP_Athena_Body_F_Frost_A/"
+                }
+            ]
+        },
+        {
+            "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_B",
+            "Swaps": [
+
+                {
+                    "Search": "CP_Athena_Body_F_Prime_B/",
+                    "Replace": "CP_Athena_Body_F_Frost_A/"
+                }
+            ]
+        },
+        {
+            "Asset": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_C",
+            "Swaps": [
+
+                {
+                    "Search": "CP_Athena_Body_F_Prime_C/",
+                    "Replace": "CP_Athena_Body_F_Frost_A/"
+                }
+            ]
+        },
+        {
+            "Asset": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_E",
+            "Swaps": [
+
+                {
+                    "Search": "CP_Athena_Body_F_Prime_E/",
+                    "Replace": "CP_Athena_Body_F_Frost_A/"
+                }
+            ]
+        },
+        {
+            "Asset": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Prime_G",
+            "Swaps": [
+
+                {
+                    "Search": "CP_Athena_Body_F_Prime_G/",
+                    "Replace": "CP_Athena_Body_F_Frost_A/"
+                }
+            ]
+        },
+        {
+            "Asset": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Prime",
+            "Swaps": [
+
+                {
+                    "Search": "CP_Athena_Body_M_Prime/",
+                    "Replace": "CP_Athena_Body_F_Frost_A/"
+                }
+            ]
+        },
+        {
+            "Asset": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Prime_G",
+            "Swaps": [
+
+                {
+                    "Search": "CP_Athena_Body_M_Prime_G/",
+                    "Replace": "CP_Athena_Body_F_Frost_A/"
+                }
+            ]
+        }
+    ]
+},
         {
             "name": "Raider's Revenge",
             "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/icon.png",
