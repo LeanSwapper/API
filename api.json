@@ -20121,13 +20121,18 @@
   },
   {
     "name": "Default Swap",
-    "fromname": "Default",
     "icon": "https://cdn.discordapp.com/avatars/772313377909112873/315a9fa7c4dced03e3f710d9df7fb570.png",
-    "swapicon": "https://cdn.discordapp.com/avatars/343695572961853441/a_cf4081f845266a01cc993dfd0f774384.png",
-    "message": "",
-    "isPickaxe": false,
-    "Assets": [
-        {
+    "type": "skins",
+    "Options": [
+      {
+        "name": "Default Swap",
+        "fromname": "Default",
+        "icon": "https://cdn.discordapp.com/avatars/772313377909112873/315a9fa7c4dced03e3f710d9df7fb570.png",
+        "swapicon": "https://cdn.discordapp.com/avatars/343695572961853441/a_cf4081f845266a01cc993dfd0f774384.png",
+        "message": "",
+        "isPickaxe": false,
+        "Assets": [
+            {
             "Asset": "FortniteGame/Content/Balance/DefaultGameDataCosmetics",
             "Swaps": [
                 {
@@ -20216,7 +20221,9 @@
                 }
             ]
         }
-    ]
+        ]
+    }
+] 
 },
         {
             "name": "Raider's Revenge",
