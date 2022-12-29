@@ -12454,12 +12454,12 @@
     ]
   },
   {
-    "name": "Aloy 1",
+    "name": "Aloy",
     "icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_062_athena_commando_f_alchemy_xd6gp/smallicon.png",
     "type": "skins",
     "Options": [
       {
-        "name": "Aloy 1",
+        "name": "Aloy",
         "icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_062_athena_commando_f_alchemy_xd6gp/smallicon.png",
         "fromname": "Blaze",
         "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_784_athena_commando_f_renegaderaiderfire/icon.png",
@@ -12469,6 +12469,14 @@
           {
             "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
             "Swaps": [
+              {
+                "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+                "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C"
+              },
+              {
+                "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+                "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Alchemy/Meshes/F_MED_Alchemy.F_MED_Alchemy"
+              },
               {
                 "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
                 "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_AlchemyAlt/Materials/F_MED_AlchemyAlt_Body.F_MED_AlchemyAlt_Body"
@@ -12482,11 +12490,33 @@
                 "Replace": "/"
               }
             ]
+          },
+          {
+            "Asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
+            "Swaps": [
+                {
+                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+                    "Replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+                },
+                {
+                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+                    "Replace": "/"
+                }
+            ]
+        },
+        {
+            "Asset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+            "Swaps": [
+                {
+                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+                    "Replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+                  }
+                ]
+              }
+            ]
           }
         ]
-      }
-    ]
-  },
+      },
   {
     "name": "Deimos",
     "icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_071_athena_commando_m_cranium/smallicon.png",
