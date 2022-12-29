@@ -2,7 +2,7 @@
     "discordURL": "https://frostchanger.de",
     "Cosmetics": [
         {
-            "name": "Renegade Raider (Option)",
+            "name": "Renegade Raider (Optionssss)",
             "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
             "type": "skins",
             "Options": [
@@ -19,11 +19,15 @@
                             "Swaps": [
                                 {
                                     "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
-                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Bane/Materials/F_MED_Bane.F_MED_Bane"
                                 },
                                 {
                                     "Search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
                                     "Replace": "/"
+                                },
+                                {
+                                    "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+                                    "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Bane/Meshes/F_MED_Bane.F_MED_Bane"
                                 },
                                 {
                                     "Search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
@@ -8233,7 +8237,7 @@
               },
               {
                 "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-                "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01"
+                "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Graffiti_01/Meshes/F_MED_Graffiti_Body_01.F_MED_Graffiti_Body_01",
               },
               {
                 "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
