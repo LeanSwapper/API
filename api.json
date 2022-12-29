@@ -8211,7 +8211,7 @@
       }
     ]
   },
-          {
+  {
     "name": "Demi",
     "icon": "https://fortnite-api.com/images/cosmetics/br/cid_405_athena_commando_f_masako/smallicon.png",
     "type": "skins",
@@ -8228,24 +8228,12 @@
             "Asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
             "Swaps": [
               {
-                "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-                "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C"
-              },
-              {
                 "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
                 "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Masako/Meshes/F_MED_Masako.F_MED_Masako"
               },
               {
                 "Search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
                 "Replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Masako/Materials/F_MED_Masako.F_MED_Masako"
-              },
-              {
-                "Search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
-                "Replace": "/"
-              },
-              {
-                "Search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
-                "Replace": "/"
               }
             ]
           }
